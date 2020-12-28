@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "JPlant1",
+    "Family": "JFamily1",
+    "Kingdom": "JKingdom1"
+  },
+  {
+    "Name": "JPlant2",
+    "Family": "JFamily2",
+    "Kingdom": "JKingdom2"
+  },
+  {
+    "Name": "JPlant3",
+    "Family": "JFamily3",
+    "Kingdom": "JKingdom3"
+  }
+]

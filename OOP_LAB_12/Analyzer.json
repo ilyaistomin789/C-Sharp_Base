@@ -1,0 +1,50 @@
+{
+  "HasConstructor": true,
+  "ObjectType": "OOP_LAB_12.ClassCollection`1[[OOP_LAB_12.Plants, OOP_LAB_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+  "AssemblyName": "OOP_LAB_12.ClassCollection`1[[OOP_LAB_12.Plants, OOP_LAB_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], OOP_LAB_12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "PublicFields": [],
+  "PublicProperties": [
+    "Item",
+    "Current"
+  ],
+  "PrivateFields": [
+    "consoleLog",
+    "fileLog",
+    "_plantList",
+    "_position",
+    "_counterOfCollection"
+  ],
+  "PrivateProperties": [],
+  "PublicMethods": [
+    "get_Item",
+    "set_Item",
+    "IsExist",
+    "MoveNext",
+    "get_Current",
+    "Reset",
+    "GetEnumerator",
+    "Add",
+    "GetCount",
+    "Delete",
+    "FirstOrDefault",
+    "FindAll",
+    "GetInfoOfCollection",
+    "WriteFile",
+    "ObjectFile",
+    "ReadFile",
+    "ReadJsonFile",
+    "Equals",
+    "GetHashCode",
+    "GetType",
+    "ToString"
+  ],
+  "PrivateMethods": [
+    "Finalize",
+    "MemberwiseClone"
+  ],
+  "Interfaces": [
+    "System.Collections.IEnumerable",
+    "System.Collections.IEnumerator"
+  ],
+  "isSealed": false
+}

@@ -1,0 +1,26 @@
+	INFORMATION ABOUT COLLECTION	06.12.2019 14:35:35
+
+Type : OOP_LAB_7.ClassCollection`1[OOP_LAB_7.Plants] 
+Name : Oak 
+Family : Fagaceae Family 
+Kingdom : Plant Tree
+
+Type : OOP_LAB_7.ClassCollection`1[OOP_LAB_7.Plants] 
+Name : Pine 
+Family : Pinales Family 
+Kingdom : Plant Tree
+
+Type : OOP_LAB_7.ClassCollection`1[OOP_LAB_7.Plants] 
+Name : Fir 
+Family : Pinaceae Family 
+Kingdom : Plant Tree
+
+Type : OOP_LAB_7.ClassCollection`1[OOP_LAB_7.Plants] 
+Name : Rose 
+Family : Rosaceae Family 
+Kingdom : Plant
+
+Type : OOP_LAB_7.ClassCollection`1[OOP_LAB_7.Plants] 
+Name : Chamomile 
+Family : Compositae Family 
+Kingdom : Plant

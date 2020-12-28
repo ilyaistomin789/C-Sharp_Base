@@ -1,0 +1,36 @@
+	INFORMATION ABOUT COLLECTION	09.11.2019 23:48:47
+
+Type : OOP_LAB_6.ClassCollection`1[OOP_LAB_6.Plants] 
+Name : Oak 
+Family : Fagaceae Family 
+Kingdom : Plant
+
+Type : OOP_LAB_6.ClassCollection`1[OOP_LAB_6.Plants] 
+Name : Oak 
+Family : Fagaceae Family 
+Kingdom : Plant
+
+Type : OOP_LAB_6.ClassCollection`1[OOP_LAB_6.Plants] 
+Name : Pine 
+Family : Pinales Family 
+Kingdom : Plant
+
+Type : OOP_LAB_6.ClassCollection`1[OOP_LAB_6.Plants] 
+Name : Fir 
+Family : Pinaceae Family 
+Kingdom : Plant
+
+Type : OOP_LAB_6.ClassCollection`1[OOP_LAB_6.Plants] 
+Name : Rose 
+Family : Rosaceae Family 
+Kingdom : Plant
+
+Type : OOP_LAB_6.ClassCollection`1[OOP_LAB_6.Plants] 
+Name : Chamomile 
+Family : Compositae Family 
+Kingdom : Plant
+
+Type : OOP_LAB_6.ClassCollection`1[OOP_LAB_6.Plants] 
+Name : Flower Of Cannes 
+Family : Cannaceae Family 
+Kingdom : Plant

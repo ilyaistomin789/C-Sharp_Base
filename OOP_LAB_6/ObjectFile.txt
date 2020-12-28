@@ -1,0 +1,8 @@
+	INFORMATION ABOUT OBJECTS	09.11.2019 23:48:47
+Index : 0			Object : Oak			ObjType : OOP_LAB_6.Tree
+Index : 1			Object : Oak			ObjType : OOP_LAB_6.Tree
+Index : 2			Object : Pine			ObjType : OOP_LAB_6.Tree
+Index : 3			Object : Fir			ObjType : OOP_LAB_6.Tree
+Index : 4			Object : Rose			ObjType : OOP_LAB_6.Flower
+Index : 5			Object : Chamo			ObjType : OOP_LAB_6.Flower
+Index : 6			Object : Flowe			ObjType : OOP_LAB_6.Flower

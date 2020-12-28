@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<game_dialogs>
+    <dialog id="first" init="true">
+        <phrase_list>
+            <phrase id="1">
+                <text>first_1</text>
+                <next>2</next>
+                <next>11</next>
+            </phrase>
+            <phrase id="2">
+                <text>first_2</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>first_11</text>
+            </phrase>
+            <phrase id="21">
+                <text>first_21</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+	<dialog id="second" weight="3.4" init="true">
+        <phrase_list>
+            <phrase id="1">
+                <text>second_1</text>
+            </phrase>
+			<phrase id="22" >
+                <text>second_22</text>
+            </phrase>
+        </phrase_list>
+    </dialog>
+	<dialog id="third" weight="1">
+        <action>jaction.run</action>
+        <phrase_list>
+            <phrase id="1">
+                <text>third_1</text>
+            </phrase>
+            <phrase id="2">
+                <text>third_2</text>
+            </phrase>
+            <phrase id="11">
+                <next>21</next>
+            </phrase>
+            <phrase id="21">
+                <text>third_21</text>
+            </phrase>
+        </phrase_list>
+    </dialog>
+</game_dialogs>
